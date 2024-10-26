@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif, Helvetica, Arial;
+    background-color: #121212;
+}
+
+.list-title {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 1.8rem;
+    text-shadow: 1px 1px 2px #1ED760;
+}
+
+.img-fluid {
+    padding: 10px;
+    max-width: 10rem;
+    height: auto;
+}
+
+.card {
+    border: 3px solid #FFF;
+    background-color: #1ED760;
+}
+
+.card-title {
+    color: #121212; 
+    font-weight: 600;
+}
+
+.card-text {
+    color: #FFF;
+    font-style: italic;
+    border: 1px solid;
+    background-color: #121212;
+    padding: 4px;
+}
+
